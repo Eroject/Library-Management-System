@@ -1,0 +1,3 @@
+Emp0001|Liv0001|Adh_St0001|Livre1|RIHANNI Mohamed|25/05/2023|01/06/2023|En cours d'emprunt
+Emp0002|Liv0002|Adh_St0001|Livre2|RIHANNI Mohamed|25/05/2023|01/06/2023|En cours d'emprunt
+Emp0003|Liv0003|Adh_St0002|Livre3|AJALE Saâd|25/05/2023|01/06/2023|En cours d'emprunt

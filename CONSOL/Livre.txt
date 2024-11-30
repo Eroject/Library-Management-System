@@ -1,0 +1,4 @@
+Liv0001|les contemplations|Aut_0001|Romanesque|HUGO Victor|4|4
+Liv0002|Fictions|Aut_0001|Romanesque|HUGO Victor|10|4
+Liv0003|Faust|Aut_0003|Romanesque|ABRAHAM yani|10|4
+

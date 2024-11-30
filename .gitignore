@@ -1,0 +1,56 @@
+# Fichiers générés par le compilateur
+*.obj
+*.o
+*.lo
+*.d
+
+# Fichiers d'exécution
+*.exe
+*.out
+*.app
+
+# Dossiers de build
+build/
+cmake-build-*/
+
+# Fichiers temporaires et de débogage
+*.log
+*.tmp
+*.temp
+*.dSYM/
+*.stackdump
+
+# Fichiers de configuration d'éditeur et IDE
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.ncb
+*.vcxproj*
+*.project
+*.cproject
+
+# Bibliothèques et dépendances
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers Make
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# Fichiers de tests
+*.gcda
+*.gcno
+*.gcov

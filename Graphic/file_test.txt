@@ -1,0 +1,3 @@
+Emp0001 | les comptemplations1  | Liv0001BOUZAFFOUR | Mortada | Adh_St0003 | 12/05/2023 | 19/05/2023 | En cours d'emprunt;
+Emp0002 | les comptemplations2 | Liv0002AJALE | Saâd | Adh_St0002 | 12/05/2023 | 19/05/2023 | En cours d'emprunt;
+Emp0003 | les comptemplations3  | Liv0003RIHANNI | Mohamed | Adh_St0001 | 12/05/2023 | 19/05/2023 | En cours d'emprunt;

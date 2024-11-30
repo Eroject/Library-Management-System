@@ -1,0 +1,3 @@
+Aut0001|HUGO|Victor|Francais
+Aut0002|ABOU GHAZALA|Talal|Palestinien
+Aut0003|YANI|ABRAHAM|Roumanien
